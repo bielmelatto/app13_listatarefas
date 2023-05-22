@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app13_listatarefas</string>
+    <string name="titulo">Título</string>
+    <string name="descricao">Descrição</string>
+    <string name="data_criacao">Data</string>
+    <string name="salvar">Salvar</string>
+</resources>
